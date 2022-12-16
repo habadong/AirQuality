@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AirQuality.iml" filepath="$PROJECT_DIR$/.idea/modules/AirQuality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AirQuality.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AirQuality.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AirQuality.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AirQuality.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AirQuality.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AirQuality.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AirQuality.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AirQuality.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
